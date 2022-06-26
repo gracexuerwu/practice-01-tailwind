@@ -2,7 +2,7 @@ module.exports = {
   content: ["./public/*.html"],
   theme: {
     extend: {
-      color: {
+      colors: {
         "bookmark-purple": "#5267DF",
         "bookmark-red": "#FA5959",
         "bookmark-blue": "#242A45",
